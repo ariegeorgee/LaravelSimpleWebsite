@@ -1,0 +1,11 @@
+.txt_nobdr{
+	border:none;
+	background: #DADADA;
+	min-width: 300px;
+}
+
+.Contact table tr td
+{
+	text-align: left;
+	vertical-align: sub;
+}
